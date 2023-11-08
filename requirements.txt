@@ -1,0 +1,12 @@
+fastdtw
+mediapipe
+numpy
+opencv-contrib-python
+opencv-python
+pandas
+pytube
+tdqm
+flask
+yt-dlp
+beautifulsoup4
+requests
